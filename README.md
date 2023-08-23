@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sejalparate
 - 👀 I’m interested in practicing codes and working on collabarative projects
 - 🌱 I’m currently learning C, C++, Python
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects regarding machine learning, deep learning and image processing
 - 📫 How to reach me? sejbp3003@gmail.com is my email id
 
 <!---
