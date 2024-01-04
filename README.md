@@ -1,4 +1,4 @@
-<h2><p align="center">Hi 👋, I'm Sejal Parate</p></h2>
+<h1><p align="center">Hi 👋, I'm Sejal Parate</p></h1>
 
 ###
 
