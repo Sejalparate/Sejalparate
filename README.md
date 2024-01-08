@@ -13,6 +13,7 @@
   <h2><p>Connect with me:</p></h2>
   <p>📫 Email: <a href="mailto:sejbp3003@gmail.com">sejbp3003@gmail.com</a><br>👔 Linkedin: <a href="https://www.linkedin.com/in/sejal-parate-a0618822a/">LinkedIn</a>
   <br>🚀 HackerRank: <a href="https://www.hackerrank.com/profile/SejalParate">HackerRank</a><br>💻 LeetCode: <a href="https://leetcode.com/SejalParate/">LeetCode</a>
+  <br> 🤝 Instagram: <a href="https://www.instagram.com/_sejalll3003__/">Instagram</a>
 </div>
 
 ###
