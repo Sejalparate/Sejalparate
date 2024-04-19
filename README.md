@@ -1,5 +1,5 @@
 <h1><p align="center">Hi 👋, I'm Sejal Parate</p></h1>
-<h3><p align="center">Machine Learning Enthusiast</p></h3>
+<h2><p align="center">Machine Learning Enthusiast</p></h2>
 
 ###
 
@@ -28,7 +28,7 @@
   ![](https://github-profile-trophy.vercel.app/?username=Sejalparate&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
   ---
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sejalparate&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   ![](https://github-readme-stats.vercel.app/api?username=Sejalparate&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Sejalparate&theme=dark&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sejalparate&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
