@@ -8,13 +8,13 @@
 
 ###
 
-<div align="left">
-<p align="left">🔭 I'm an eager learner, always ready to get my hands dirty.<br>🌱 I'm currently to contribute to open-source projects.<br>📩 How to reach me? sejbp3003@gmail.com</p>
-</div>
+<h3 align="left">⛏️ Languages and Tools:</h3>
 
 ###
 
-<h2 align="left">⛏️ Languages and Tools:</h2>
+<p align="left">🔭 Curious Explorer | Always ready to get my hands dirty!  <br>🌱 Open-Source Enthusiast | On a mission to make meaningful contributions - Let’s build something awesome together!  <br>💡 Forever Learning | Code, research, AI—if it sparks curiosity, I’m in!  <br>📩 Let’s Connect | sejbp3003@gmail.com - always up for a tech chat! 🚀</p>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
@@ -45,11 +45,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
@@ -62,15 +62,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
 </div>
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sejalparate&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sejalparate&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sejalparate&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Sejalparate&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="140" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sejalparate&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sejalparate&locale=en&mode=weekly&theme=prussian&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sejalparate&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Sejalparate&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sejalparate&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"  />
 </div>
+
+###
