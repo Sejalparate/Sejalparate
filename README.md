@@ -15,7 +15,6 @@
 ###
 
 <h2 align="left">⛏️ Languages and Tools:</h2>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -38,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -69,9 +68,9 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sejalparate&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sejalparate&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sejalparate&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Sejalparate&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sejalparate&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sejalparate&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sejalparate&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Sejalparate&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="140" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sejalparate&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"  />
 </div>
