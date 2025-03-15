@@ -8,11 +8,11 @@
 
 ###
 
-<h3 align="left">⛏️ Languages and Tools:</h3>
+<p align="left">🔭 Curious Explorer | Always ready to get my hands dirty!  <br>🌱 Open-Source Enthusiast | On a mission to make meaningful contributions - Let’s build something awesome together!  <br>💡 Forever Learning | Code, research, AI—if it sparks curiosity, I’m in!  <br>📩 Let’s Connect | sejbp3003@gmail.com - always up for a tech chat! 🚀</p>
 
 ###
 
-<p align="left">🔭 Curious Explorer | Always ready to get my hands dirty!  <br>🌱 Open-Source Enthusiast | On a mission to make meaningful contributions - Let’s build something awesome together!  <br>💡 Forever Learning | Code, research, AI—if it sparks curiosity, I’m in!  <br>📩 Let’s Connect | sejbp3003@gmail.com - always up for a tech chat! 🚀</p>
+<h3 align="left">⛏️ Languages and Tools:</h3>
 
 ###
 
